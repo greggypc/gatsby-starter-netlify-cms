@@ -4,7 +4,8 @@ title: New Blog Post
 date: 2019-01-02T20:37:52.767Z
 description: New post for my blog here about coffee.
 tags:
-  - coffee burger
+  - coffee
+  - burger
 ---
 ## H2 Header
 
